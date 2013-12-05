@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 643bdf078b689914ebec67016a4aba97
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spawnScript: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - testObject: {fileID: 5400000, guid: eab3351a84f665c4aad65f87fab70f71, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

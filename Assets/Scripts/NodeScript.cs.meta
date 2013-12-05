@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 682973bd44173c240a6751a7d4c94805
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - selectRegion: {fileID: 100000, guid: 2020adfd141ad0647827395dfce3ed33, type: 2}
+  - rallyPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
